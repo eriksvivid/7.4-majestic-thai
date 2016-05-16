@@ -1,0 +1,57 @@
+[
+  {
+    "item": "Edamame",
+    "description": "Steamed",
+    "price": 4,
+    "category": "appetizer"
+  },
+
+  {
+    "item": "Spring Rolls",
+    "description": "Spring rolls with vegetables",
+    "price": 5,
+    "category": "appetizer"
+  },
+
+  {
+    "item": "Shrimp",
+    "description": "Jumbo fried shrimp with sweet and sour sauce",
+    "price": 5,
+    "category": "appetizer"
+  },
+
+  {
+    "item": "Orange Chicken",
+    "description": "Orange Chicken with noodles or rice",
+    "price": 12,
+    "category": "entree"
+  },
+
+  {
+    "item": "Teriyaki",
+    "description": "Teriyaki chicken or beef with noodles or rice",
+    "price": 15,
+    "category": "entree"
+  },
+
+  {
+    "item": "Sesame Chicken",
+    "description": "Sesame chicken with noodles or rice",
+    "price": 12,
+    "category": "entree"
+  },
+
+  {
+    "item": "Banana Cream Pie",
+    "description": "",
+    "price": 8,
+    "category": "dessert"
+  },
+
+  {
+    "item": "Chocolate Ice Cream ",
+    "description": "",
+    "price": 8,
+    "category": "dessert"
+  }
+]
